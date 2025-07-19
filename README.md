@@ -53,5 +53,20 @@ Sample Prediction	Successful
 	•	✅ Accuracy score (R²)
 	•	✅ Visualizations
 
-📚 References
+References
 	•	scikit-learn.org
+	•	pandas.pydata.org
+	•	kaggle.com – For exploring similar datasets
+	•	IBM Edunet Internship Materials
+
+⸻
+
+🔗 GitHub Link
+
+👉 View the full notebook
+
+⸻
+
+🙋‍♂️ Created During
+
+IBM Edunet Foundation – AI Internship (Machine Learning Project)
