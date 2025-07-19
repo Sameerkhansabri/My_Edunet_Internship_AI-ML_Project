@@ -3,8 +3,11 @@
 Employee Salary Prediction using Linear Regression
 
 ![Uploading Code.png…]()
+
 ![Uploading Output.jpg…]()
+
 ![Uploading Analysis.jpg…]()
+
 ![Uploading Predictions.jpg…]()
 
 
