@@ -1,6 +1,12 @@
-# Sameer Khan IBM AICTE Edunet Foundation Project
+# My IBM AICTE Edunet Foundation AI/ML Internship Project.
 
 Employee Salary Prediction using Linear Regression
+
+![Uploading Code.png…]()
+![Uploading Output.jpg…]()
+![Uploading Analysis.jpg…]()
+![Uploading Predictions.jpg…]()
+
 
 This project demonstrates a machine learning model that predicts an employee’s salary based on their years of experience using Linear Regression.
 
